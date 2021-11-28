@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for PricePointBuddy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sdcaulley",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}

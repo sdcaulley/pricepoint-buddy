@@ -2,10 +2,6 @@
   "name": "pricepoint-buddy",
   "version": "1.0.0",
   "description": "Application to crowd source unit prices on groceries.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sdcaulley/pricepoint-buddy.git"

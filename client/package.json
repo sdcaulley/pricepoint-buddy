@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Browser client for PricePointBuddy",
+  "main": "index.html",
+  "scripts": {
+    "test": "web-test-runner test/**/*.test.js --node-resolve",
+    "start": "web-dev-server"
+  },
+  "type": "module",
+  "author": "sdcalley",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@esm-bundle/chai": "^4.3.4-fix.0",
+    "@web/dev-server": "^0.1.28",
+    "@web/dev-server-esbuild": "^0.2.16",
+    "@web/test-runner": "^0.13.22",
+    "standard": "^16.0.4"
+  },
+  "dependencies": {
+    "lit": "^2.0.2"
+  }
+}
